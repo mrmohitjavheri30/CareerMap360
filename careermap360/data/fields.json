@@ -1,0 +1,22 @@
+[
+    {
+        "id": "it",
+        "name": "IT & Technology",
+        "description": "Programming, software, web development and technology careers."
+    },
+    {
+        "id": "medical",
+        "name": "Medical & Healthcare",
+        "description": "Healthcare, medical science and related career areas."
+    },
+    {
+        "id": "business",
+        "name": "Business & Management",
+        "description": "Business, management, finance and marketing career areas."
+    },
+    {
+        "id": "engineering",
+        "name": "Engineering",
+        "description": "Engineering and technical career areas."
+    }
+]

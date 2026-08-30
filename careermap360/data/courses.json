@@ -1,0 +1,416 @@
+[
+  {
+    "id": "bca",
+    "field": "it",
+    "name": "Bachelor of Computer Applications",
+    "shortName": "BCA",
+    "duration": "3 to 4 years",
+    "eligibility": "Eligibility depends on the university and admission rules.",
+    "overview": "BCA is an undergraduate course focused on computer applications, programming, software development and information technology.",
+    "subjects": [
+      "Programming",
+      "Database Management",
+      "Web Development",
+      "Computer Networks",
+      "Software Development"
+    ],
+    "skills": [
+      "Programming",
+      "Problem Solving",
+      "Web Development",
+      "Database Management"
+    ],
+    "careerOptions": [
+      "Web Developer",
+      "Software Developer",
+      "Application Developer",
+      "Database Developer"
+    ],
+    "higherStudies": [
+      "MCA",
+      "M.Sc. Computer Science"
+    ],
+    "companies": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture"
+    ],
+    "roadmap": [
+      "Complete BCA",
+      "Learn programming and technical skills",
+      "Build projects",
+      "Complete an internship",
+      "Apply for entry-level IT jobs"
+    ]
+  },
+
+  {
+    "id": "btech-cse",
+    "field": "it",
+    "name": "B.Tech Computer Science",
+    "shortName": "B.Tech CSE",
+    "duration": "4 years",
+    "eligibility": "Eligibility and admission requirements depend on the institution and admission route.",
+    "overview": "B.Tech CSE focuses on computer science, programming, algorithms, software engineering and modern computing technologies.",
+    "subjects": [
+      "Programming",
+      "Data Structures",
+      "Algorithms",
+      "Operating Systems",
+      "Computer Networks"
+    ],
+    "skills": [
+      "Programming",
+      "Data Structures",
+      "Algorithms",
+      "Problem Solving"
+    ],
+    "careerOptions": [
+      "Software Engineer",
+      "Software Developer",
+      "Web Developer",
+      "System Engineer"
+    ],
+    "higherStudies": [
+      "M.Tech",
+      "MCA",
+      "M.Sc. Computer Science"
+    ],
+    "companies": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "HCLTech",
+      "Accenture"
+    ],
+    "roadmap": [
+      "Complete B.Tech CSE",
+      "Learn programming and DSA",
+      "Build software projects",
+      "Complete internships",
+      "Apply for software and technology roles"
+    ]
+  },
+
+  {
+    "id": "bsc-cs",
+    "field": "it",
+    "name": "B.Sc. Computer Science",
+    "shortName": "B.Sc. CS",
+    "duration": "3 to 4 years",
+    "eligibility": "Eligibility requirements vary by university.",
+    "overview": "B.Sc. Computer Science provides fundamental knowledge of programming, databases, computer systems and computing concepts.",
+    "subjects": [
+      "Programming",
+      "Computer Fundamentals",
+      "Data Structures",
+      "Database Systems"
+    ],
+    "skills": [
+      "Programming",
+      "Logical Thinking",
+      "Database Skills"
+    ],
+    "careerOptions": [
+      "Software Developer",
+      "Web Developer",
+      "Technical Support",
+      "Database-related Roles"
+    ],
+    "higherStudies": [
+      "M.Sc. Computer Science",
+      "MCA"
+    ],
+    "companies": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "HCLTech"
+    ],
+    "roadmap": [
+      "Complete B.Sc. Computer Science",
+      "Learn programming",
+      "Build practical projects",
+      "Gain internship experience",
+      "Apply for technology jobs"
+    ]
+  },
+
+  {
+    "id": "mbbs",
+    "field": "medical",
+    "name": "Bachelor of Medicine and Bachelor of Surgery",
+    "shortName": "MBBS",
+    "duration": "As per applicable medical education regulations",
+    "eligibility": "Admission and eligibility requirements follow current medical education rules.",
+    "overview": "MBBS is a medical education program covering medical science, clinical knowledge and patient care.",
+    "subjects": [
+      "Anatomy",
+      "Physiology",
+      "Biochemistry",
+      "Pathology",
+      "Pharmacology"
+    ],
+    "skills": [
+      "Clinical Knowledge",
+      "Communication",
+      "Patient Care",
+      "Decision Making"
+    ],
+    "careerOptions": [
+      "Medical Doctor",
+      "Clinical Practice",
+      "Hospital Medical Roles",
+      "Public Health Roles"
+    ],
+    "higherStudies": [
+      "MD",
+      "MS",
+      "Medical Specialization"
+    ],
+    "companies": [
+      "Apollo Hospitals",
+      "Fortis Healthcare",
+      "Max Healthcare",
+      "Manipal Hospitals"
+    ],
+    "roadmap": [
+      "Meet eligibility requirements",
+      "Complete medical admission process",
+      "Complete MBBS education",
+      "Complete required internship",
+      "Continue medical practice or specialization"
+    ]
+  },
+
+  {
+    "id": "bpharm",
+    "field": "medical",
+    "name": "Bachelor of Pharmacy",
+    "shortName": "B.Pharm",
+    "duration": "4 years",
+    "eligibility": "Eligibility depends on the institution and applicable admission rules.",
+    "overview": "B.Pharm focuses on medicines, pharmaceutical science, drug formulation and pharmacy practice.",
+    "subjects": [
+      "Pharmaceutics",
+      "Pharmaceutical Chemistry",
+      "Pharmacology",
+      "Pharmacognosy"
+    ],
+    "skills": [
+      "Laboratory Skills",
+      "Pharmaceutical Knowledge",
+      "Scientific Thinking",
+      "Quality Control"
+    ],
+    "careerOptions": [
+      "Pharmacist",
+      "Quality Control Executive",
+      "Production Executive",
+      "Pharmaceutical Industry Roles"
+    ],
+    "higherStudies": [
+      "M.Pharm",
+      "MBA Pharmaceutical Management"
+    ],
+    "companies": [
+      "Sun Pharma",
+      "Cipla",
+      "Dr. Reddy's Laboratories",
+      "Lupin"
+    ],
+    "roadmap": [
+      "Complete B.Pharm",
+      "Develop pharmaceutical skills",
+      "Gain practical experience",
+      "Complete internship",
+      "Apply for pharmacy or pharmaceutical roles"
+    ]
+  },
+
+  {
+    "id": "bba",
+    "field": "business",
+    "name": "Bachelor of Business Administration",
+    "shortName": "BBA",
+    "duration": "3 to 4 years",
+    "eligibility": "Eligibility requirements vary by university.",
+    "overview": "BBA provides knowledge of business management, marketing, finance, human resources and organizational practices.",
+    "subjects": [
+      "Business Management",
+      "Marketing",
+      "Finance",
+      "Human Resource Management",
+      "Business Communication"
+    ],
+    "skills": [
+      "Communication",
+      "Leadership",
+      "Business Analysis",
+      "Team Management"
+    ],
+    "careerOptions": [
+      "Business Development Executive",
+      "Marketing Executive",
+      "HR Executive",
+      "Management Roles"
+    ],
+    "higherStudies": [
+      "MBA",
+      "PGDM"
+    ],
+    "companies": [
+      "Deloitte",
+      "KPMG",
+      "EY",
+      "Accenture"
+    ],
+    "roadmap": [
+      "Complete BBA",
+      "Develop communication and business skills",
+      "Complete internship",
+      "Build professional resume",
+      "Apply for business and management roles"
+    ]
+  },
+
+  {
+    "id": "bcom",
+    "field": "business",
+    "name": "Bachelor of Commerce",
+    "shortName": "B.Com",
+    "duration": "3 to 4 years",
+    "eligibility": "Eligibility requirements vary by institution.",
+    "overview": "B.Com focuses on accounting, finance, economics, taxation and business fundamentals.",
+    "subjects": [
+      "Accounting",
+      "Business Economics",
+      "Financial Management",
+      "Taxation",
+      "Business Law"
+    ],
+    "skills": [
+      "Accounting",
+      "Financial Analysis",
+      "Numerical Skills",
+      "Business Communication"
+    ],
+    "careerOptions": [
+      "Accountant",
+      "Financial Executive",
+      "Tax-related Roles",
+      "Banking and Finance Roles"
+    ],
+    "higherStudies": [
+      "M.Com",
+      "MBA",
+      "Professional Certifications"
+    ],
+    "companies": [
+      "Deloitte",
+      "EY",
+      "KPMG",
+      "PwC"
+    ],
+    "roadmap": [
+      "Complete B.Com",
+      "Develop accounting skills",
+      "Gain practical experience",
+      "Consider professional certification",
+      "Apply for finance and accounting roles"
+    ]
+  },
+
+  {
+    "id": "btech-me",
+    "field": "engineering",
+    "name": "B.Tech Mechanical Engineering",
+    "shortName": "B.Tech Mechanical",
+    "duration": "4 years",
+    "eligibility": "Eligibility and admission requirements vary by institution.",
+    "overview": "Mechanical Engineering focuses on machines, manufacturing, mechanical systems, design and engineering principles.",
+    "subjects": [
+      "Engineering Mechanics",
+      "Thermodynamics",
+      "Machine Design",
+      "Manufacturing Processes",
+      "Fluid Mechanics"
+    ],
+    "skills": [
+      "Engineering Design",
+      "Problem Solving",
+      "CAD",
+      "Technical Analysis"
+    ],
+    "careerOptions": [
+      "Mechanical Engineer",
+      "Design Engineer",
+      "Production Engineer",
+      "Quality Engineer"
+    ],
+    "higherStudies": [
+      "M.Tech",
+      "MBA"
+    ],
+    "companies": [
+      "Tata Motors",
+      "Mahindra",
+      "Larsen & Toubro",
+      "BHEL"
+    ],
+    "roadmap": [
+      "Complete B.Tech Mechanical Engineering",
+      "Develop engineering skills",
+      "Learn CAD and technical tools",
+      "Complete internship",
+      "Apply for engineering roles"
+    ]
+  },
+
+  {
+    "id": "btech-ece",
+    "field": "engineering",
+    "name": "B.Tech Electronics and Communication Engineering",
+    "shortName": "B.Tech ECE",
+    "duration": "4 years",
+    "eligibility": "Eligibility and admission requirements vary by institution.",
+    "overview": "ECE focuses on electronics, communication systems, embedded systems and digital technologies.",
+    "subjects": [
+      "Digital Electronics",
+      "Analog Electronics",
+      "Communication Systems",
+      "Microprocessors",
+      "Embedded Systems"
+    ],
+    "skills": [
+      "Electronics",
+      "Circuit Analysis",
+      "Embedded Systems",
+      "Problem Solving"
+    ],
+    "careerOptions": [
+      "Electronics Engineer",
+      "Embedded Systems Engineer",
+      "Communication Engineer",
+      "Hardware-related Roles"
+    ],
+    "higherStudies": [
+      "M.Tech",
+      "MBA"
+    ],
+    "companies": [
+      "Qualcomm",
+      "Intel",
+      "Texas Instruments",
+      "Larsen & Toubro"
+    ],
+    "roadmap": [
+      "Complete B.Tech ECE",
+      "Develop electronics skills",
+      "Build embedded projects",
+      "Complete internship",
+      "Apply for electronics and technology roles"
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+ [
+    {
+        "courseId": "bca",
+        "courseName": "Bachelor of Computer Applications",
+
+        "careerAreas": [
+            "Software Development",
+            "Web Development",
+            "Application Development",
+            "Database and IT Services"
+        ],
+
+        "companies": [
+            "Tata Consultancy Services (TCS)",
+            "Infosys",
+            "Wipro",
+            "HCLTech",
+            "Accenture",
+            "Capgemini",
+            "Cognizant",
+            "Tech Mahindra"
+        ],
+
+        "jobRoles": [
+            "Software Developer",
+            "Web Developer",
+            "Application Developer",
+            "Junior Software Engineer",
+            "Database-related Roles",
+            "IT Support Roles"
+        ],
+
+        "note": "These companies may have relevant technology and software opportunities. Actual hiring depends on current vacancies, skills, eligibility and the specific role."
+    },
+
+    {
+        "courseId": "btech-cse",
+        "courseName": "B.Tech Computer Science",
+
+        "careerAreas": [
+            "Software Engineering",
+            "Web Development",
+            "Cloud and Technology",
+            "Data and Software Systems"
+        ],
+
+        "companies": [
+            "Tata Consultancy Services (TCS)",
+            "Infosys",
+            "Wipro",
+            "HCLTech",
+            "Accenture",
+            "Capgemini",
+            "Cognizant",
+            "Tech Mahindra"
+        ],
+
+        "jobRoles": [
+            "Software Engineer",
+            "Software Developer",
+            "Web Developer",
+            "Cloud-related Roles",
+            "Systems Engineer",
+            "Application Developer"
+        ],
+
+        "note": "Company opportunities depend on the current job opening, candidate skills, eligibility and role requirements."
+    },
+
+    {
+        "courseId": "bsc-cs",
+        "courseName": "B.Sc. Computer Science",
+
+        "careerAreas": [
+            "Software Development",
+            "Web Development",
+            "Database Systems",
+            "IT Services"
+        ],
+
+        "companies": [
+            "Tata Consultancy Services (TCS)",
+            "Infosys",
+            "Wipro",
+            "HCLTech",
+            "Accenture",
+            "Capgemini",
+            "Cognizant"
+        ],
+
+        "jobRoles": [
+            "Software Developer",
+            "Web Developer",
+            "IT Support",
+            "Application Support",
+            "Database-related Roles"
+        ],
+
+        "note": "Actual hiring depends on current vacancies, skills, eligibility and the specific job role."
+    }
+]
