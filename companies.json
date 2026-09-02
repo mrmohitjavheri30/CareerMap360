@@ -1,0 +1,282 @@
+[
+  {
+    "courseId": "bca",
+    "courseName": "Bachelor of Computer Applications",
+    "careerAreas": ["Software Development", "Web Development", "Application Development", "IT Services"],
+    "companies": ["TCS", "Infosys", "Wipro", "HCLTech", "Accenture", "Capgemini", "Cognizant", "Tech Mahindra"],
+    "jobRoles": ["Software Developer", "Web Developer", "Application Developer", "Junior Software Engineer", "IT Support"],
+    "note": "Relevant opportunities depend on current vacancies, skills, eligibility and specific role requirements."
+  },
+  {
+    "courseId": "btech-cse",
+    "courseName": "B.Tech Computer Science & Engineering",
+    "careerAreas": ["Software Engineering", "Cloud", "Data", "Web Development"],
+    "companies": ["TCS", "Infosys", "Accenture", "Cognizant", "Microsoft", "Amazon", "Google", "Capgemini"],
+    "jobRoles": ["Software Engineer", "Full Stack Developer", "Backend Developer", "System Engineer", "Data Engineer"],
+    "note": "Hiring depends on the current job opening, skills, eligibility and role requirements."
+  },
+  {
+    "courseId": "bsc-cs",
+    "courseName": "B.Sc. Computer Science",
+    "careerAreas": ["Software Development", "Web Development", "IT Services"],
+    "companies": ["TCS", "Infosys", "Wipro", "HCLTech", "Accenture", "Capgemini"],
+    "jobRoles": ["Software Developer", "Web Developer", "IT Support", "Application Support"],
+    "note": "Actual hiring depends on current vacancies and candidate qualifications."
+  },
+  {
+    "courseId": "btech-ai",
+    "courseName": "B.Tech Artificial Intelligence & Data Science",
+    "careerAreas": ["Artificial Intelligence", "Machine Learning", "Data Science", "Analytics"],
+    "companies": ["TCS", "Accenture", "Infosys", "IBM", "Microsoft", "Amazon", "Google"],
+    "jobRoles": ["Data Analyst", "AI Engineer", "ML Engineer", "Data Scientist"],
+    "note": "Opportunities depend on skills, projects, vacancies and role requirements."
+  },
+  {
+    "courseId": "btech-mechanical",
+    "courseName": "B.Tech Mechanical Engineering",
+    "careerAreas": ["Manufacturing", "Automotive", "Design", "Production"],
+    "companies": ["Tata Motors", "Mahindra", "Larsen & Toubro", "Siemens", "Bosch"],
+    "jobRoles": ["Mechanical Engineer", "Design Engineer", "Production Engineer", "Maintenance Engineer"],
+    "note": "Hiring varies by company, vacancy and candidate qualifications."
+  },
+  {
+    "courseId": "btech-electrical",
+    "courseName": "B.Tech Electrical Engineering",
+    "careerAreas": ["Power", "Electrical Systems", "Automation", "Maintenance"],
+    "companies": ["Siemens", "Larsen & Toubro", "Tata Power", "ABB", "Schneider Electric"],
+    "jobRoles": ["Electrical Engineer", "Power Engineer", "Control Engineer", "Maintenance Engineer"],
+    "note": "Actual opportunities depend on current recruitment and eligibility."
+  },
+  {
+    "courseId": "btech-civil",
+    "courseName": "B.Tech Civil Engineering",
+    "careerAreas": ["Construction", "Infrastructure", "Structural Engineering"],
+    "companies": ["Larsen & Toubro", "Tata Projects", "Shapoorji Pallonji", "Adani Infrastructure"],
+    "jobRoles": ["Civil Engineer", "Site Engineer", "Project Engineer", "Planning Assistant"],
+    "note": "Opportunities depend on projects, vacancies and qualifications."
+  },
+  {
+    "courseId": "mbbs",
+    "courseName": "MBBS",
+    "careerAreas": ["Clinical Healthcare", "Hospitals", "Medical Research"],
+    "companies": ["Apollo Hospitals", "Fortis Healthcare", "Manipal Hospitals", "Max Healthcare"],
+    "jobRoles": ["Medical Doctor", "Clinical Practitioner", "Medical Researcher"],
+    "note": "Career progression and practice requirements depend on applicable regulations and qualifications."
+  },
+  {
+    "courseId": "bpharm",
+    "courseName": "B.Pharm",
+    "careerAreas": ["Pharmaceuticals", "Quality Control", "Drug Research"],
+    "companies": ["Sun Pharma", "Cipla", "Dr. Reddy's Laboratories", "Lupin", "Abbott"],
+    "jobRoles": ["Pharmacist", "Quality Control Professional", "Research Assistant", "Drug Safety Professional"],
+    "note": "Opportunities depend on qualifications, vacancies and applicable requirements."
+  },
+  {
+    "courseId": "bsc-nursing",
+    "courseName": "B.Sc. Nursing",
+    "careerAreas": ["Hospitals", "Clinical Care", "Community Healthcare"],
+    "companies": ["Apollo Hospitals", "Fortis Healthcare", "Manipal Hospitals", "Max Healthcare"],
+    "jobRoles": ["Staff Nurse", "Clinical Nurse", "Community Health Nurse"],
+    "note": "Employment depends on applicable registration, qualifications and vacancies."
+  },
+  {
+    "courseId": "bsc-physics",
+    "courseName": "B.Sc. Physics",
+    "careerAreas": ["Research", "Laboratories", "Education", "Technical Services"],
+    "companies": ["Research Institutions", "Scientific Laboratories", "Educational Institutions"],
+    "jobRoles": ["Research Assistant", "Laboratory Professional", "Science Educator"],
+    "note": "Many research roles may require postgraduate qualifications."
+  },
+  {
+    "courseId": "bsc-chemistry",
+    "courseName": "B.Sc. Chemistry",
+    "careerAreas": ["Laboratories", "Chemical Industry", "Quality Control"],
+    "companies": ["Chemical Companies", "Pharmaceutical Companies", "Research Laboratories"],
+    "jobRoles": ["Lab Assistant", "Quality Analyst", "Research Assistant"],
+    "note": "Career opportunities depend on qualifications and specific job requirements."
+  },
+  {
+    "courseId": "bsc-biotechnology",
+    "courseName": "B.Sc. Biotechnology",
+    "careerAreas": ["Biotechnology", "Healthcare Research", "Laboratories"],
+    "companies": ["Biocon", "Dr. Reddy's Laboratories", "Research Organizations", "Biotech Companies"],
+    "jobRoles": ["Research Assistant", "Laboratory Assistant", "Quality Control Professional"],
+    "note": "Advanced research positions may require postgraduate study."
+  },
+  {
+    "courseId": "bcom",
+    "courseName": "B.Com",
+    "careerAreas": ["Accounting", "Finance", "Taxation", "Banking"],
+    "companies": ["Deloitte", "EY", "KPMG", "PwC", "Banks and Financial Organizations"],
+    "jobRoles": ["Accountant", "Finance Assistant", "Tax Assistant", "Banking Professional"],
+    "note": "Opportunities depend on skills, qualifications and vacancies."
+  },
+  {
+    "courseId": "bba",
+    "courseName": "BBA",
+    "careerAreas": ["Management", "Marketing", "HR", "Sales"],
+    "companies": ["TCS", "Accenture", "Deloitte", "Amazon", "Reliance"],
+    "jobRoles": ["Business Executive", "Marketing Executive", "HR Executive", "Sales Executive"],
+    "note": "Job roles vary according to specialization and employer requirements."
+  },
+  {
+    "courseId": "baf",
+    "courseName": "Bachelor of Accounting and Finance",
+    "careerAreas": ["Accounting", "Audit", "Finance", "Taxation"],
+    "companies": ["Deloitte", "EY", "KPMG", "PwC", "Banks"],
+    "jobRoles": ["Accountant", "Audit Assistant", "Finance Executive", "Tax Assistant"],
+    "note": "Professional qualifications can expand opportunities."
+  },
+  {
+    "courseId": "bdes",
+    "courseName": "B.Des",
+    "careerAreas": ["Graphic Design", "UI Design", "Branding", "Visual Design"],
+    "companies": ["Design Studios", "Advertising Agencies", "Technology Companies", "Creative Agencies"],
+    "jobRoles": ["Graphic Designer", "UI Designer", "Visual Designer", "Brand Designer"],
+    "note": "Portfolio quality is important for many design roles."
+  },
+  {
+    "courseId": "bfa",
+    "courseName": "BFA",
+    "careerAreas": ["Fine Arts", "Illustration", "Creative Design"],
+    "companies": ["Creative Studios", "Design Agencies", "Art Organizations", "Educational Institutions"],
+    "jobRoles": ["Artist", "Illustrator", "Visual Designer", "Art Educator"],
+    "note": "Portfolio and practical creative work are valuable."
+  },
+  {
+    "courseId": "llb",
+    "courseName": "LLB",
+    "careerAreas": ["Legal Practice", "Corporate Law", "Legal Research"],
+    "companies": ["Law Firms", "Corporate Legal Departments", "Legal Consultancies"],
+    "jobRoles": ["Advocate", "Legal Associate", "Legal Researcher", "Legal Consultant"],
+    "note": "Practice-related requirements depend on applicable professional rules."
+  },
+  {
+    "courseId": "ballb",
+    "courseName": "BA LL.B.",
+    "careerAreas": ["Legal Practice", "Corporate Law", "Legal Research"],
+    "companies": ["Law Firms", "Corporate Legal Departments", "Legal Organizations"],
+    "jobRoles": ["Legal Associate", "Legal Researcher", "Advocate"],
+    "note": "Career requirements depend on the applicable professional pathway."
+  },
+  {
+    "courseId": "bed",
+    "courseName": "B.Ed",
+    "careerAreas": ["Teaching", "Education", "Training"],
+    "companies": ["Schools", "Colleges", "Educational Organizations", "Training Institutes"],
+    "jobRoles": ["Teacher", "Education Coordinator", "Trainer", "Academic Assistant"],
+    "note": "Teacher recruitment requirements vary by institution and applicable rules."
+  },
+  {
+    "courseId": "bped",
+    "courseName": "B.P.Ed",
+    "careerAreas": ["Physical Education", "Sports Coaching", "Fitness"],
+    "companies": ["Schools", "Sports Academies", "Fitness Organizations", "Educational Institutions"],
+    "jobRoles": ["PE Teacher", "Sports Coach", "Fitness Trainer", "Sports Coordinator"],
+    "note": "Requirements vary according to institution and role."
+  },
+  {
+    "courseId": "bsc-agriculture",
+    "courseName": "B.Sc. Agriculture",
+    "careerAreas": ["Agriculture", "Agribusiness", "Research", "Farm Management"],
+    "companies": ["Agricultural Organizations", "AgriTech Companies", "Food Production Companies"],
+    "jobRoles": ["Agriculture Officer", "Farm Manager", "Agricultural Consultant", "Research Assistant"],
+    "note": "Government and professional roles may have additional eligibility requirements."
+  },
+  {
+    "courseId": "bsc-horticulture",
+    "courseName": "B.Sc. Horticulture",
+    "careerAreas": ["Horticulture", "Agriculture", "Research"],
+    "companies": ["AgriTech Companies", "Nursery Organizations", "Food Production Companies"],
+    "jobRoles": ["Horticulture Officer", "Farm Manager", "Agriculture Consultant"],
+    "note": "Opportunities depend on qualifications and current vacancies."
+  },
+  {
+    "courseId": "bhm",
+    "courseName": "BHM",
+    "careerAreas": ["Hotels", "Food & Beverage", "Tourism", "Events"],
+    "companies": ["Taj Hotels", "ITC Hotels", "Marriott", "Hyatt", "Hilton"],
+    "jobRoles": ["Hotel Manager", "Front Office Executive", "F&B Manager", "Guest Relations Executive"],
+    "note": "Opportunities depend on hospitality experience, skills and vacancies."
+  },
+  {
+    "courseId": "btourism",
+    "courseName": "Bachelor of Tourism Management",
+    "careerAreas": ["Tourism", "Travel", "Hospitality"],
+    "companies": ["Travel Companies", "Tour Operators", "Hotels", "Tourism Organizations"],
+    "jobRoles": ["Travel Executive", "Tourism Manager", "Tour Operator", "Destination Executive"],
+    "note": "Career opportunities depend on employer requirements and experience."
+  },
+  {
+    "courseId": "bjmc",
+    "courseName": "BJMC",
+    "careerAreas": ["Journalism", "Digital Media", "Public Relations", "Broadcasting"],
+    "companies": ["Media Houses", "Digital Media Companies", "News Organizations", "Advertising Agencies"],
+    "jobRoles": ["Journalist", "Content Writer", "Video Producer", "PR Executive"],
+    "note": "Portfolio and practical media experience can be useful."
+  },
+  {
+    "courseId": "ba-communication",
+    "courseName": "BA Mass Communication",
+    "careerAreas": ["Media", "Advertising", "Content", "Communication"],
+    "companies": ["Media Houses", "Advertising Agencies", "Digital Agencies", "Content Companies"],
+    "jobRoles": ["Content Creator", "Copywriter", "Media Executive", "PR Executive"],
+    "note": "Career opportunities depend on communication skills and portfolio."
+  },
+  {
+    "courseId": "barch",
+    "courseName": "B.Arch",
+    "careerAreas": ["Architecture", "Construction", "Planning", "Design"],
+    "companies": ["Architecture Firms", "Construction Companies", "Design Studios", "Real Estate Organizations"],
+    "jobRoles": ["Architect", "Architectural Designer", "Planning Assistant", "Project Coordinator"],
+    "note": "Professional practice requirements depend on applicable regulations."
+  },
+  {
+    "courseId": "bplan",
+    "courseName": "B.Plan",
+    "careerAreas": ["Urban Planning", "Regional Planning", "GIS"],
+    "companies": ["Planning Consultancies", "Infrastructure Organizations", "Urban Development Organizations"],
+    "jobRoles": ["Planning Assistant", "Urban Planning Professional", "GIS Assistant"],
+    "note": "Opportunities vary by organization and qualification."
+  },
+  {
+    "courseId": "bfashion",
+    "courseName": "Fashion Design",
+    "careerAreas": ["Fashion", "Textiles", "Styling", "Merchandising"],
+    "companies": ["Fashion Brands", "Design Houses", "Fashion Retail Companies", "Textile Companies"],
+    "jobRoles": ["Fashion Designer", "Fashion Stylist", "Textile Designer", "Merchandiser"],
+    "note": "Portfolio and practical design skills are valuable."
+  },
+  {
+    "courseId": "bsc-aviation",
+    "courseName": "B.Sc. Aviation",
+    "careerAreas": ["Airport Operations", "Airlines", "Ground Operations"],
+    "companies": ["Airports", "Airlines", "Aviation Service Companies", "Ground Handling Companies"],
+    "jobRoles": ["Airport Operations Executive", "Airline Operations Executive", "Ground Operations Executive"],
+    "note": "Role-specific requirements vary across aviation employers."
+  },
+  {
+    "courseId": "ba-psychology",
+    "courseName": "B.A. Psychology",
+    "careerAreas": ["Research", "HR", "Social Research", "Behavioural Studies"],
+    "companies": ["Research Organizations", "HR Departments", "NGOs", "Educational Organizations"],
+    "jobRoles": ["Research Assistant", "HR Professional", "Social Researcher", "Behavioural Research Assistant"],
+    "note": "Some psychology-specific professional roles require postgraduate qualifications."
+  },
+  {
+    "courseId": "bsc-environment",
+    "courseName": "B.Sc. Environmental Science",
+    "careerAreas": ["Environment", "Sustainability", "Research", "Conservation"],
+    "companies": ["Environmental Organizations", "Sustainability Consultancies", "Research Institutions", "NGOs"],
+    "jobRoles": ["Environmental Assistant", "Sustainability Executive", "Research Assistant", "Field Officer"],
+    "note": "Advanced environmental roles may require postgraduate study."
+  },
+  {
+    "courseId": "bsc-sports",
+    "courseName": "B.Sc. Sports Science",
+    "careerAreas": ["Sports", "Fitness", "Performance", "Coaching"],
+    "companies": ["Sports Academies", "Fitness Organizations", "Sports Clubs", "Educational Institutions"],
+    "jobRoles": ["Sports Assistant", "Fitness Professional", "Sports Coordinator", "Performance Assistant"],
+    "note": "Role requirements vary according to employer and specialization."
+  }
+]

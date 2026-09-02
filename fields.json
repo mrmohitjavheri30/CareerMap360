@@ -1,0 +1,102 @@
+[
+  {
+    "id": "it",
+    "name": "IT & Technology",
+    "description": "Programming, software development, web development, cybersecurity, cloud, AI and technology careers."
+  },
+  {
+    "id": "engineering",
+    "name": "Engineering",
+    "description": "Engineering, technical design, manufacturing, electronics, construction and problem-solving careers."
+  },
+  {
+    "id": "medical",
+    "name": "Medical & Healthcare",
+    "description": "Medicine, nursing, pharmacy, physiotherapy, healthcare and allied health careers."
+  },
+  {
+    "id": "science",
+    "name": "Science",
+    "description": "Physics, chemistry, biology, mathematics, biotechnology, research and scientific careers."
+  },
+  {
+    "id": "commerce",
+    "name": "Commerce & Finance",
+    "description": "Accounting, finance, taxation, banking, economics and business careers."
+  },
+  {
+    "id": "arts-design",
+    "name": "Arts & Design",
+    "description": "Graphic design, visual communication, illustration, animation and creative careers."
+  },
+  {
+    "id": "law",
+    "name": "Law",
+    "description": "Legal studies, corporate law, litigation, legal research and public legal services."
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Teaching, training, education management, academic research and learning careers."
+  },
+  {
+    "id": "agriculture",
+    "name": "Agriculture",
+    "description": "Agriculture, horticulture, agricultural technology, farming and agribusiness careers."
+  },
+  {
+    "id": "hospitality",
+    "name": "Hospitality & Tourism",
+    "description": "Hotels, tourism, food service, travel, event management and hospitality careers."
+  },
+  {
+    "id": "media",
+    "name": "Media & Communication",
+    "description": "Journalism, digital media, content creation, public relations and broadcasting careers."
+  },
+  {
+    "id": "architecture",
+    "name": "Architecture & Planning",
+    "description": "Architecture, building design, urban planning, construction and spatial design careers."
+  },
+  {
+    "id": "fashion",
+    "name": "Fashion",
+    "description": "Fashion design, textile design, styling, merchandising and fashion business careers."
+  },
+  {
+    "id": "aviation",
+    "name": "Aviation",
+    "description": "Airport operations, aviation management, aircraft maintenance and airline careers."
+  },
+  {
+    "id": "social-science",
+    "name": "Social Science",
+    "description": "Psychology, sociology, political science, economics and social research careers."
+  },
+  {
+    "id": "sports",
+    "name": "Sports & Fitness",
+    "description": "Sports management, physical education, fitness, coaching and sports science careers."
+  },
+  {
+    "id": "environment",
+    "name": "Environment & Sustainability",
+    "description": "Environmental science, sustainability, conservation and climate-related careers."
+  },
+  {
+    "id": "psychology",
+    "name": "Psychology & Behaviour",
+    "description": "Human behaviour, psychology, counselling, organisational behaviour and research careers."
+  },
+  {
+    "id": "government",
+    "name": "Government & Public Services",
+    "description": "Civil services, public administration, government departments and public sector careers."
+  },
+  {
+    "id": "defence",
+    "name": "Defence & Security",
+    "description": "Defence services, security, strategic studies and related professional careers."
+  }
+]
